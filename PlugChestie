@@ -1,7 +1,7 @@
 {
     "room":                     "RockAndRoll Romania",
     "author":                   "Aki",
-    "icon":                     null,
+    "icon":                     "https://cloud.githubusercontent.com/assets/14359422/10110641/3364409c-63d7-11e5-902d-1ada10d2b1b7.png",
     "css":                      null,
     "rules": {
         "allowAutorespond":     true,
