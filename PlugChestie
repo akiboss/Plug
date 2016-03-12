@@ -2,7 +2,7 @@
     "room":                     "RockAndRoll Romania",
     "author":                   "Aki",
     "icon":                     "https://cloud.githubusercontent.com/assets/14359422/10110641/3364409c-63d7-11e5-902d-1ada10d2b1b7.png",
-    "css":                      null,
+    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
